@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="100%" />
-</p>
 
 <h1 align="left">👋 Debo Yusuf Cybersecurity Analyst</h1>
 <p>Hello! I’m Debo Yusuf, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.</p>
